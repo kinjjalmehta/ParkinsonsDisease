@@ -1,5 +1,5 @@
 # Parkinson's Disease
-A machine learning activity based on voice data of healthy patients and patients suffering from Parkinson's Disease. Our aim is to use machine learning to differentiate between healthy people and people diagnosed with PD.
+A machine learning project based on voice data of healthy patients and patients suffering from Parkinson's Disease. Our aim is to use machine learning to differentiate between healthy people and people diagnosed with PD.
 
 Data is in csv format. The txt file contains a description.
 
